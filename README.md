@@ -2,7 +2,7 @@
 [о проекте](https://github.com/voskhod-1/cosmos-server/blob/main/info.md)
 
 ## Стек:
-- Flutter
+- [Flutter](https://flutter.dev)
 ## Цель:
 - Создать полнофункциональное приложение ОС Космос для IOS и ANDROID
 - Сохранить стиль и дизайн [Веб-приложения](https://github.com/voskhod-1/cosmos-web)
